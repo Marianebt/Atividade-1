@@ -1,7 +1,7 @@
 public class lutador{
     String nome;
-    String energia;
-    String força;
+    int energia;
+    int força;
     
     public lutador(String nome, int energia, int força){
         this.nome = nome;
